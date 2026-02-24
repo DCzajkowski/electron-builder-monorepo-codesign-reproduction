@@ -1,9 +1,12 @@
 {
   "name": "desktop-app",
   "version": "0.0.2",
+  "dependencies": {
+    "better-sqlite3-multiple-ciphers": "12.6.2"
+  },
   "devDependencies": {
     "electron": "39.6.1",
-    "electron-builder": "^26.8.1"
+    "electron-builder": "26.8.1"
   },
   "build": {
     "extraMetadata": {
