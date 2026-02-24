@@ -1,0 +1,7 @@
+{
+  "name": "desktop-app",
+  "dependencies": {
+    "electron": "^40.6.0",
+    "electron-builder": "^26.8.1"
+  }
+}

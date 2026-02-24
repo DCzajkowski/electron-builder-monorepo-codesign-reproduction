@@ -1,4 +1,7 @@
 {
   "name": "electron-builder-monorepo-codesign",
-  "packageManager": "yarn@4.12.0"
+  "packageManager": "yarn@4.12.0",
+  "workspaces": [
+    "apps/*"
+  ]
 }
