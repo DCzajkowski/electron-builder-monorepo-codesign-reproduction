@@ -1,0 +1,4 @@
+{
+  "name": "electron-builder-monorepo-codesign",
+  "packageManager": "yarn@4.6.0"
+}
