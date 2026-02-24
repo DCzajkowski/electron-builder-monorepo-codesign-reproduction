@@ -12,5 +12,7 @@
 #!.yarn/cache
 .pnp.*
 
-dist/
 node_modules/
+
+# Normally, this would not be committed, but we add it for easier reproduction
+!dist
