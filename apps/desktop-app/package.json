@@ -9,9 +9,13 @@
     "win": {
       "signtoolOptions": {
         "sign": "sign.js",
-        "signingHashAlgorithms": ["sha256"]
+        "signingHashAlgorithms": [
+          "sha256"
+        ]
       },
-      "signExts": [".node"]
+      "signExts": [
+        ".node"
+      ]
     }
   }
 }
